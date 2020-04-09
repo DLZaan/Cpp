@@ -1,0 +1,7 @@
+NonRepetitive Game (NRG) — Mathematical game for two:
+
+1. How to play?
+Players enter characters alternately, Player 1's goal is to create a repetition of a substring (consisting of at least two consecutive characters), while his opponent is to prevent this. Before the game players choose alphabet (set of allowed characters), they can also set the maximum length of the game (or play endlessly).
+
+2. Game modes
+You can either choose PvP, PvC, CvP or CvC. Please note, that PvC is not the same as CvP, as players' roles aren't identical (strategy and goal are different).
